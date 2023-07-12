@@ -1,1 +1,1 @@
-# Mini_Project-Traffic_Light_Controller
+# Mini Project - Traffic Light Controller
